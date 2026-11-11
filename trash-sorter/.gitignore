@@ -1,0 +1,11 @@
+.env
+.env.*
+!.env.example
+.venv/
+__pycache__/
+*.py[cod]
+captures/*
+!captures/.gitkeep
+logs/*
+!logs/.gitkeep
+.DS_Store
